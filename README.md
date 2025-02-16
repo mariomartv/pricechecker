@@ -20,8 +20,8 @@ El servicio devuelve:
 
 ### Clonar el repositorio
 ```sh
- git clone https://github.com/tu-usuario/price-checker.git
- cd price-checker
+ git clone https://github.com/mariomartv/pricechecker.git
+ cd pricechecker
 ```
 
 
