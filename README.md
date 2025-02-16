@@ -2,7 +2,7 @@
 
 ## 📖 Descripción del Proyecto
 
-Este proyecto es un servicio REST desarrollado en **Spring Boot** que permite consultar el precio de un producto en una tienda determinada en función de una fecha dada. Utiliza una base de datos en memoria **H2** y está diseñado para responder a las siguientes consultas:
+Este proyecto es un servicio REST desarrollado en **Spring Boot** que permite consultar el precio de un producto en una tienda determinada en función de una fecha dada. Utiliza una base de datos en memoria **H2** y está diseñado para responder a una consulta que tenga como parámetros:
 
 - Fecha de aplicación del precio
 - Identificador del producto
